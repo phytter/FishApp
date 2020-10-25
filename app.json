@@ -1,0 +1,12 @@
+{
+  "name": "MyFishApp",
+  "displayName": "MyFishApp",
+  "expo": {
+    "name": "MyFishApp",
+    "slug": "MyFishApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
